@@ -31,17 +31,6 @@ h3 {
   font-family: 'Montserrat', sans-serif;
 }
 
-a {
-  color: #1A374D;
-  font-family: 'Montserrat', sans-serif;
-  margin: 10px 20px;
-  text-decoration: none;
-}
-
-a:hover {
-  color: #EAF6F6;
-}
-
 hr {
   border: dotted #406882 6px;
   border-bottom: none;
@@ -105,14 +94,25 @@ hr {
 
 .guitar-pic {
   float: left;
-  width: 25%;
+  width: 15%;
   margin-right: 30px;
 }
 
 .twitch-pic {
   float: right;
-  width: 25%;
+  width: 15%;
   margin-left: 30px;
+}
+
+.footer-link {
+  color: #1A374D;
+  font-family: 'Montserrat', sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+
+.footer-link:hover {
+  color: #EAF6F6;
 }
 
 .btn {
