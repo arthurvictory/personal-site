@@ -76,13 +76,17 @@ hr {
 
 .top-cloud {
   position: absolute;
-  right: 300px;
-  top: 50px;
+  right: 700px;
+  top: 550px;
+}
+
+.choco-donut {
+  width: 35%;
 }
 
 .bottom-cloud {
   position: absolute;
-  left: 300px;
+  left: 600px;
   bottom: 300px;
 }
 
